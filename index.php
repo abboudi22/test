@@ -7,4 +7,5 @@
 //$val++;
 //fwrite($h1,$val);
 //fclose($h1);
+echo "hello world!!";
 ?>
